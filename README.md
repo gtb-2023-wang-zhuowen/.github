@@ -1,4 +1,3 @@
-# .github
 # Welcome to Zhuowen's org
 
 Hi, Zhuowen here, you can also call me kevin.
